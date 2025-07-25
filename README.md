@@ -6,7 +6,4 @@
   
 I'm a Cybersecurity guy @CGI. I do mostly DevOps, Pentesting, CTF stuff!
 
-----
-
-<img alt="4renwald's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4renwald&show_icons=true&theme=dracula" />                   
 
